@@ -1,5 +1,5 @@
 // @ts-check
-import { html, render } from "./node_modules/lit-html/lit-html.js";
+import { html, render } from "./node_modules/lit-html/lit.js";
 
 const apiBase = "https://heslig.kellertreff.com";
 
